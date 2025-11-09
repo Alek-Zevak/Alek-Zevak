@@ -2,20 +2,24 @@
 
 ###
 
-<br clear="both">
-
 <img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJhMjRpODI0dGdwNmRydDVhYW83ZDJ6OTV3MzlqNWF6YTZ2YTBsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXynzLoP14IHsnfGmO/giphy.gif"  />
 
 ###
 
-<p align="left">I currently work as a freelancer and am constantly seeking to improve my soft skills, such as teamwork, problem-solving, critical thinking, and time management.<br><br>I love sharing and learning from the community. If there's anything I can help with or collaborate on, feel free to reach out.<br><br>I’d be happy to work together!</p>
+<p align="left" style="padding: 5px;">I currently work as a freelancer and am constantly seeking to improve my soft skills, such as teamwork, problem-solving, critical thinking, and time management.<br><br>I love sharing and learning from the community. If there's anything I can help with or collaborate on, feel free to reach out.<br><br>I’d be happy to work together!</p>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+<div align="left" style="padding: 2px;">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
 </div>
 
 ###
