@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJhMjRpODI0dGdwNmRydDVhYW83ZDJ6OTV3MzlqNWF6YTZ2YTBsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXynzLoP14IHsnfGmO/giphy.gif"  />
 
 ###
