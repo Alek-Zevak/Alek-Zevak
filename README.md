@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left" style="padding: 5px;">I currently work as a freelancer and am constantly seeking to improve my soft skills, such as teamwork, problem-solving, critical thinking, and time management.<br><br>I love sharing and learning from the community. If there's anything I can help with or collaborate on, feel free to reach out.<br><br>I’d be happy to work together!</p>
+<p align="left" style="margin-left: 2px;">I currently work as a freelancer and am constantly seeking to improve my soft skills, such as teamwork, problem-solving, critical thinking, and time management.<br><br>I love sharing and learning from the community. If there's anything I can help with or collaborate on, feel free to reach out.<br><br>I’d be happy to work together!</p>
 
 ###
 
-<div align="left" style="padding: 2px;">
+<div align="left" style="margin-left: 2px;">
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -93,10 +93,6 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=12&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=6&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Alek-Zevak/Alek-Zevak/output/snake.svg" alt="Snake animation" />
 
 ###
 
