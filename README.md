@@ -78,7 +78,7 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Alek-Zevak&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
@@ -86,7 +86,7 @@
 
 ###
 
-<br clear="both">
+<br clear="both"> -->
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=12&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=6&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
